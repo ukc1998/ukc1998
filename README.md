@@ -1,16 +1,12 @@
-### Hi there 👋
+### Myself Utkarsh 🙏
 
-<!--
-**ukc1998/ukc1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Python Project.
+- 🌱 I’m currently learning Fullstack Data Science
+- 👯 I’m looking to collaborate on YouTube.
+- 🤔 I’m looking for help with my first internship project in data science.
+- 💬 Ask me about Python.
+- 📫 How to reach me: instagram.com/utkarsh.choubey/
+- 😄 Pronouns: Baba
+- ⚡ Fun fact: Four years of engineering.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Utkasrsh's github stats](https://github-readme-stats.vercel.app/api?username=ukc1998)
