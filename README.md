@@ -9,4 +9,4 @@
 - 😄 Pronouns: Baba
 - ⚡ Fun fact: Four years of engineering.
 
-![Utkasrsh's github stats](https://github-readme-stats.vercel.app/api?username=ukc1998)
+![Utkasrsh's github stats](https://github-readme-stats.vercel.app/api?username=ukc1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=da7dc&bg_color=151515)
