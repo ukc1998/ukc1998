@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Python Project.**
 
-- 😄 Pronouns: [Baba](Baba)
+- 😄 Pronouns: **Baba**
 
 - 💬 Ask me about **Python, Statistics, Data Visualization, Databases, Machine Learning.**
 
