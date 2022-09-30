@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Utkarsh 🙏</h1>
-<h3 align="center">A passionate Machine Learning enthusiast.</h3>
+<h3 align="center">A passionate Data Analytics enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukc1998&label=Profile%20views&color=0e75b6&style=flat" alt="ukc1998" /> </p>
 
