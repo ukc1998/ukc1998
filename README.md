@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Fullstack Data Science.**
 
-- 👯 I’m looking to collaborate on **Machine Learning Project.**
+- 👯 I’m looking to work on **Business Intelligence Project.**
 
-- 🤝 I’m looking for help with **Python Project.**
+- 🤝 I’m sharpening my skills on **SQL, Excel, Power BI, Dedicated Python Libraries.**
 
 - 😄 Pronouns: **Baba**
 
-- 💬 Ask me about **Python, Statistics, Data Visualization, Databases, Machine Learning.**
+- 💬 Ask me about **Python, Statistics, SQL, Machine Learning Algorithms, Power BI, Excel.**
 
 - 📫 How to reach me **utkarshchoubey5@outlook.com**
 
