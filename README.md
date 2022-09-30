@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Python Project.**
 
-- 🌱 I’m currently learning **Fullstack Data Science.**
+- 🌱 I’m currently learning **Fullstack Data Science at Ineuron.ai.**
 
 - 👯 I’m looking to work on **Business Intelligence Project.**
 
