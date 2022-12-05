@@ -15,7 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ukc1998&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Favourite Data Quotes
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical?quote=Your Quote&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ukc1998&icon=0&color=0)](https://visitcount.itsvg.in)
