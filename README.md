@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analyst Projects.<br><br>🌱 I’m currently learning Full stack Data Science at Ineuron.ai.<br><br>👯 I’m looking to work on Business Intelligence Project.<br><br>🤝 I’m sharpening my skills on SQL, Power BI, Excel, Python and Data Analyst Dedicated Libraries of Python.<br><br>😄 Pronouns: Mr. Allrounder<br><br>💬 Ask me about Python, Statistics, SQL, Machine Learning Algorithms, Power BI, Excel.<br><br>📫 How to reach me utkarshchoubey5@outlook.com<br><br>⚡ Fun fact Four years of engineering.
+🔭 I’m currently working on Data Analyst Projects.<br><br>🌱 I’m currently learning Big Data at Ineuron.ai.<br><br>👯 I’m looking for a full-time Data Analyst role.<br><br>🤝 I’m sharpening my skills on SQL, Power BI, Excel, Python and Data Analyst Dedicated Libraries of Python.<br><br>😄 Pronouns: Mr. Allrounder<br><br>💬 Ask me about Python, Statistics, SQL, Machine Learning Algorithms, Power BI, Excel.<br><br>📫 How to reach me utkarshchoubey5@outlook.com<br><br>⚡ Fun fact Four years of engineering.
 
 
 ## 🌐 Socials:
